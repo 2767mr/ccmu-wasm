@@ -1,0 +1,7 @@
+{
+    "name": "ccmu",
+    "plugin": "plugin.js",
+    "ccmodDependencies": {
+        "Simplify": "^2.0.0"
+    }
+}
